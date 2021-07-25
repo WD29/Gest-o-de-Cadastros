@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://http2.mlstatic.com/D_NQ_NP_856263-MLB46443531095_062021-O.webp",
+      "name": "Iphone",
+      "description": "Descrição do produto",
+      "price": 8000
+    },
+    {
+      "id": 2,
+      "photo": "https://http2.mlstatic.com/D_NQ_NP_2X_927246-MLA45073255612_032021-F.webp",
+      "name": "Galaxy",
+      "description": "Descrição do produto",
+      "price": 4000
+    }
+  ]
+}

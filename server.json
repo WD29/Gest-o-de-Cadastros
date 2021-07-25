@@ -1,0 +1,47 @@
+{
+    "produtos": [
+{
+   "id": 1,
+   "photo": "https://m.media-amazon.com/images/I/81FBIrIvLVL._AC_UL320_.jpg",
+   "name": "Marvel's Spider-Man: Miles Morales",
+   "description": "PlayStation 5",
+   "price": "R$199,00"
+}, 
+{
+    "id": 2,
+    "photo": "https://m.media-amazon.com/images/I/81f8vt8oJbL._AC_UL320_.jpg",
+    "name": "Demon's Souls",
+    "description": "PlayStation 5",
+    "price": "R$300,00"
+ },
+
+ {
+    "id": 3,
+    "photo": "https://m.media-amazon.com/images/I/71EdhuxHshL._AC_UL320_.jpg",
+    "name": "Returnal",
+    "description": "PlayStation 5",
+    "price": "R$320,00"
+ },
+
+ {
+    "id": 4,
+    "photo": "https://m.media-amazon.com/images/I/71BbxLOSl4L._AC_UL320_.jpg",
+    "name": "Resident Evil Village",
+    "description": "PlayStation 5",
+    "price": "R$299,00"
+ },
+
+ {
+    "id": 5,
+    "photo": "https://m.media-amazon.com/images/I/71PqM1pqVeL._AC_UL320_.jpg",
+    "name": "Ghost of Tsushima",
+    "description": "PlayStation 4",
+    "price": "R$165,00"
+ }
+
+
+
+    ]
+
+
+}
